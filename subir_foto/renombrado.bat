@@ -1,0 +1,1 @@
+start C:\Renamer\renamer.exe /rename "renomale" C:\Users\JJ\http\Fotos_a_Subir

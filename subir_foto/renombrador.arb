@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AntRenamer Version="2.10.0" Date="29/05/2014">
+ <Batch>
+  <Random Mask="%random%%ext%" Method="0"/>
+ </Batch>
+</AntRenamer>
