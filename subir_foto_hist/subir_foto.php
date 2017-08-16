@@ -24,7 +24,7 @@ use Facebook\FacebookRequestException;
 
 FacebookSession::setDefaultApplication('318468168575365', '47868317563c0649e6860be0802edda8');
 
-$session = new FacebookSession('EAAEhpSYPaYUBAFp41u90Nyp4LC9UjlYBaaCySpqg9TXOwjD4bxGqZA0v7twgi5ZAe3WZCtZAGhRObPJaLkFRSZBIMCxSxkK0cGHZBTRLYJ0ZC5IBv3XNZAmwvANA7HnJhLZBbZA69o1D7q15ZCz41pQlTP3c0QPzUzD50gZD');
+$session = new FacebookSession('EAAEhpSYPaYUBAK2e391tp8Oi9ZC8LFTkQVkN2WSmj58yZA7p1awNILxZBozW43g74ZBU2jd1Oq69zHkQqqjkKKUS5j9nlTTmLlJgJJhOShcufLG7GUe9BZAAzuACgZBArr6CsPET1F5fq4mYyuZC9zqx5zZB3LA5RPYZD');
 
 $file = "listado.xml";	
 $data = simplexml_load_file($file);

@@ -10,7 +10,7 @@ use Facebook\FacebookRequestException;
 FacebookSession::setDefaultApplication('318468168575365', '47868317563c0649e6860be0802edda8');
 
 // If you already have a valid access token:
-$session = new FacebookSession('EAAEhpSYPaYUBAM9AbW58yNBqYtgoOQjl5SgOl5b6ZBUcVFISr2kX3WoNMelMmM1oESUlx9lzC5YzdxxpobCCA2OiZBHs0ap8tiWhWlFvq9MrQrI8v8ppHArQrwaqOH8ouBpAGlJuTiRZBxUKnCuZABE8RIEJaEAZD');
+$session = new FacebookSession('EAAEhpSYPaYUBAK2e391tp8Oi9ZC8LFTkQVkN2WSmj58yZA7p1awNILxZBozW43g74ZBU2jd1Oq69zHkQqqjkKKUS5j9nlTTmLlJgJJhOShcufLG7GUe9BZAAzuACgZBArr6CsPET1F5fq4mYyuZC9zqx5zZB3LA5RPYZD');
 
 // If you're making app-level requests:
 //$session = FacebookSession::newAppSession();
